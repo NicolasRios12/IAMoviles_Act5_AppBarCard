@@ -57,7 +57,7 @@ class Mascotas extends StatelessWidget {
                   children: [
                     // Avatar
                     const CircleAvatar(
-                      radius: 40,
+                      radius: 45,
                       backgroundImage: NetworkImage(
                         'https://raw.githubusercontent.com/NicolasRios12/IAMoviles_Act5_AppBarCard/refs/heads/main/Nicolas.png',
                       ),
